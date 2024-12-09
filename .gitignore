@@ -7,7 +7,6 @@
 [Uu]serSettings/
 *.csproj
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
